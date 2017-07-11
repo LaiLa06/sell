@@ -22,5 +22,5 @@ npm run dev
 npm run build
 
 # 运行
-node node prod.server.js
+node prod.server.js
 ```
