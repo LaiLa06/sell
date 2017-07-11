@@ -1,21 +1,23 @@
 # sell
 
-> sell app
+> 这个项目是仿照的饿了么。边学边写的，一些地方可能并不适合，但是这个项目做下来，彻底喜欢上了vue,我会慢慢的优化的
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+## 查看效果
+# 1、安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 2、运行dev
 npm run dev
+```
+``` bash
 
-# build for production with minification
+## 打包步骤
+# 打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# 运行
+node node prod.server.js
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
